@@ -19,3 +19,7 @@
 	- mutagen
 	
 	- qtmodern
+	
+	
+	
+	![alt text](https://github.com/KamalTD/MP3Player/blob/master/Prev/MP3_Player.JPG)
